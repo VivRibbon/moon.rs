@@ -1,0 +1,14 @@
+[package]
+name = "moon"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+Inflector = "0.11.4"
+crossterm = "0.27.0"
+moon-calc = "1.0.0"
+num2words = "1.0.0"
+pancurses = "0.17.0"
+textwrap = "0.16.0"
